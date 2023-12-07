@@ -1,13 +1,14 @@
 {
     "name": "@janaredvw/spotlight",
     "license": "MIT",
-    "version": "2.0.1",
+    "version": "2.0.0",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
     "types": "dist/index.d.ts",
     "scripts": {
         "build": "tsup index.ts --format cjs,esm --dts",
-        "lint": "tsc"
+        "lint": "tsc",
+        "release": "changesets version && changesets publish"
     },
     "devDependencies": {
         "@changesets/cli": "^2.27.1",
