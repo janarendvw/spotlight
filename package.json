@@ -8,7 +8,7 @@
     "scripts": {
         "build": "tsup index.ts --format cjs,esm --dts",
         "lint": "tsc",
-        "release": "changesets version && changesets publish"
+        "release": "pnpm run lint && pnpm run build && changesets publish"
     },
     "devDependencies": {
         "@changesets/cli": "^2.27.1",
