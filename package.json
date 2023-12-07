@@ -2,6 +2,31 @@
     "name": "@janaredvw/spotlight",
     "license": "MIT",
     "version": "2.0.1",
+    "description": "A simple spotlight effect for your web app",
+    "keywords": [
+        "spotlight",
+        "focus",
+        "highlight",
+        "overlay",
+        "modal",
+        "tour",
+        "walkthrough",
+        "tutorial",
+        "guide",
+        "intro",
+        "introduction",
+        "onboarding",
+        "coachmark"
+    ],
+    "author": "Jan Arend van winsen",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/janarendvw/spotlight"
+    },
+    "bugs": {
+        "url": "https://github.com/janarendvw/spotlight/issues"
+    },
+    "private": false,
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
     "types": "dist/index.d.ts",
