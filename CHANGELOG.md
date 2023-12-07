@@ -1,5 +1,11 @@
 # @janaredvw/spotlight
 
+## 2.1.0
+
+### Minor Changes
+
+- 0ddab9d: Added basic Spotlight class for later integration
+
 ## 2.0.1
 
 ### Patch Changes
