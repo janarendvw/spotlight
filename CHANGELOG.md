@@ -1,5 +1,11 @@
 # @janaredvw/spotlight
 
+## 2.1.1
+
+### Patch Changes
+
+- 1fa808f: added readme
+
 ## 2.1.0
 
 ### Minor Changes
