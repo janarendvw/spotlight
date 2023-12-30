@@ -1,5 +1,11 @@
 # @janaredvw/spotlight
 
+## 2.2.0
+
+### Minor Changes
+
+- 19f2a00: Added basic spotlight visual elements & logic
+
 ## 2.1.1
 
 ### Patch Changes
